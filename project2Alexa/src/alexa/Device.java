@@ -8,5 +8,5 @@ package alexa;
  */
 
 public abstract class Device {
-
+	
 }
